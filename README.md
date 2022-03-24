@@ -34,7 +34,9 @@ Hi! 8+ years of developing browser based games in PHP. I am passionate and energ
 
 `Kriminalai.lt`  *Spent over 1+ year to refactor legacy code to Laravel. Used repository design pattern*
 
-`Vastwars.com`  *Legacy PHP code. Created from scratch using OOP, jQuery, Ajax, MySQL*
+`Vastwars.com` `Nusikaltimai.lt` `Reketas.lt` `Gangsteriai.lt` `Rajonas.lt` `Miestukovos.lt` *Legacy PHP code. Created from scratch using OOP, jQuery, Ajax, MySQL*
+
+`Ievapoilsionamai.lt` *MODx CMS*
 
 ## Education / Courses
 
