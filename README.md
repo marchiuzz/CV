@@ -30,6 +30,8 @@ Hi! 8+ years of developing browser based games in PHP. I am passionate and energ
 
 ## Work Experience
 
+`UAB Dineta` *Creating CRM | backend laravel, frontend vuejs, RESTful API*
+
 `Logistics Warehouse App` *Backend + Frontend, separated by RESTful API.  Backend - Laravel. Frontend - Bootstrap + jQuery*
 
 `Kriminalai.lt`  *Spent over 1+ year to refactor legacy code to Laravel. Used repository design pattern*
