@@ -16,6 +16,9 @@ Hi! 8+ years of developing browser based games in PHP. I am passionate and energ
 |`Git`              | ●●●●○  |
 |`Laravel8+`        | ●●●●○  |
 |`MySQL`            | ●●●●○  |
+
+|`VueJS2`            | ●●○○○ |
+
 |`jQuery`           | ●●●●●  |
 |`Ajax` 	          | ●●●●○  |
 |`RESTful API`      | ●●●○○  |
