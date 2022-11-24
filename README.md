@@ -1,7 +1,7 @@
 
 # Martynas Sakavicius CV
 
-Hi! 8+ years of developing browser based games in PHP. I am passionate and energetic PHP developer. Love snowboarding, hiking, trekking, travelling with backpack to places i've never been.
+Hi! 8+ years of developing browser based games in PHP. I am passionate and energetic PHP developer. Love snowboarding, hiking, trekking, travelling with backpack to places i've never been....
 >**Phone**: +370 676 02 154
 >
 >**Telegram**: @marchiuzz
