@@ -6,7 +6,9 @@ Hi! 8+ years of developing browser based games in PHP. I am passionate and energ
 >
 >**Telegram**: @marchiuzz
 >
->[LinkedIn](https://www.linkedin.com/in/martin-sakav-3945baa2/)
+>**Email**: SakaviciusMartynas@gmail.com
+>
+>[LinkedIn](https://www.linkedin.com/in/martynas-sakavicius-3945baa2/)
 
 ## Skills
 
